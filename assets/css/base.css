@@ -1,5 +1,6 @@
 @import url('font-awesome.min.css');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
 /* Basic */
 
@@ -131,6 +132,10 @@ a {
 a:hover {
   color: #e27689;
   border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+p {
+  font-family: 'Lato', sans-serif;
 }
 
 sub {
